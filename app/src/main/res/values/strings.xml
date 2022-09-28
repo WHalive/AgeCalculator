@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My age calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="birthday_year">BirthdayYear</string>
+    <string name="age_result">Age Result</string>
+    <string name="_1">1</string>
+    <string name="calculate">Calculate</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="good">good</string>
+    <string name="fan_control">Fan Control</string>
+    <string name="fan_off">off</string>
+    <string name="fan_low">1</string>
+    <string name="fan_medium">2</string>
+    <string name="fan_high">3</string>
+    <string name="result_table">Result Table</string>
+    <string name="_80">80</string>
+    <string name="mmiddle_age_80">mMiddle age: 80</string>
+    <string name="middle_age_80">Middle age: 80</string>
+
+
+</resources>
